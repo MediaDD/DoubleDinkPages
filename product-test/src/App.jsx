@@ -16,7 +16,7 @@ const App = () => {
         <section id="status">
           <Status />
         </section>
-        <section id="testimonial">
+        <section id="testimonials">
         <Testimonials />
         </section>
         <Footer />

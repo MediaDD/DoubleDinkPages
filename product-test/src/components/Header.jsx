@@ -101,7 +101,7 @@ const Header = () => {
         </nav>
 
         <a
-          href="https://www.forum.doubledink.cc"
+          href="https://www.forums.doubledink.cc"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Open Forum

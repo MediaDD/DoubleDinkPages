@@ -13,11 +13,13 @@ import chromecast from "./chrome-cast.svg";
 import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import doubledink from "./double.png"
+import productbox from "./productbox.png";
 
 import discordBlack from "./socials/discord.svg";
 import epvp from "./socials/epvp.svg";
 
 export {
+  productbox,
   doubledink,
   check,
   check2,

@@ -1,0 +1,43 @@
+{
+  "hash": "01dcec91",
+  "configHash": "cc189844",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "de644c1f",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "d9d52d6e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7152ac3c",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "10c01c94",
+      "needsInterop": false
+    },
+    "scroll-lock": {
+      "src": "../../node_modules/scroll-lock/dist/scroll-lock.js",
+      "file": "scroll-lock.js",
+      "fileHash": "645855a4",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-ESOPAGXE": {
+      "file": "chunk-ESOPAGXE.js"
+    },
+    "chunk-RHPDEHY5": {
+      "file": "chunk-RHPDEHY5.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}

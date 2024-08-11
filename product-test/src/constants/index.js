@@ -1,5 +1,4 @@
 import {
-  doubledink,
   discordBlack,
   epvp,
 } from "../assets";
@@ -38,6 +37,20 @@ export const navigation = [
     onlyMobile: true,
   },
 ];
+
+export const featuresList = [
+  "This product has this feature!",
+  "And this feature!",
+  "And you cannot forget about this feature!",
+  "What about this feature?",
+  "We got you covered!",
+  "What about now?",
+  "Idk what about this feature?",
+  "Testing lenght",
+  "what else?",
+]
+
+export const videoLink = "https://www.youtube.com/embed/dQw4w9WgXcQ";
 
 export const testimonial = [
 	{
